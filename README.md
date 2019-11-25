@@ -12,19 +12,19 @@ Data Analytics app for the Stony Brook Solar Racing Team
 
 ## Design Specifications
 - Website Interface
- - User can download all raw data from a specified time range as csv or json (!)
- - User can view data in a specified time range numerically (!)
- - User can view data in a specified time range graphically
+  - User can download all raw data from a specified time range as csv or json (!)
+  - User can view data in a specified time range numerically (!)
+  - User can view data in a specified time range graphically
 
 - API Endpoint
- - Will receive intermittent requests with new sets of data as csv or json (!)
+  - Will receive intermittent requests with new sets of data as csv or json (!)
 
 - Database
- - Store all data in a database (!)
+  - Store all data in a database (!)
 
 - Additional Features
- - Statistical interpolation/inferencing
- - Pattern detection
+  - Statistical interpolation/inferencing
+  - Pattern detection
 
 Items with exclamations (!) are high priority
 All others are long term (i.e. potentially features that can be added next year)
